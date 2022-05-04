@@ -1,0 +1,14 @@
+D:\This PC\ProductandSell\ProductandSell\bin\Debug\netcoreapp3.1\ProductandSell.exe
+D:\This PC\ProductandSell\ProductandSell\bin\Debug\netcoreapp3.1\ProductandSell.deps.json
+D:\This PC\ProductandSell\ProductandSell\bin\Debug\netcoreapp3.1\ProductandSell.runtimeconfig.json
+D:\This PC\ProductandSell\ProductandSell\bin\Debug\netcoreapp3.1\ProductandSell.runtimeconfig.dev.json
+D:\This PC\ProductandSell\ProductandSell\bin\Debug\netcoreapp3.1\ProductandSell.dll
+D:\This PC\ProductandSell\ProductandSell\bin\Debug\netcoreapp3.1\ProductandSell.pdb
+D:\This PC\ProductandSell\ProductandSell\obj\Debug\netcoreapp3.1\ProductandSell.csproj.AssemblyReference.cache
+D:\This PC\ProductandSell\ProductandSell\obj\Debug\netcoreapp3.1\ProductandSell.GeneratedMSBuildEditorConfig.editorconfig
+D:\This PC\ProductandSell\ProductandSell\obj\Debug\netcoreapp3.1\ProductandSell.AssemblyInfoInputs.cache
+D:\This PC\ProductandSell\ProductandSell\obj\Debug\netcoreapp3.1\ProductandSell.AssemblyInfo.cs
+D:\This PC\ProductandSell\ProductandSell\obj\Debug\netcoreapp3.1\ProductandSell.csproj.CoreCompileInputs.cache
+D:\This PC\ProductandSell\ProductandSell\obj\Debug\netcoreapp3.1\ProductandSell.dll
+D:\This PC\ProductandSell\ProductandSell\obj\Debug\netcoreapp3.1\ProductandSell.pdb
+D:\This PC\ProductandSell\ProductandSell\obj\Debug\netcoreapp3.1\ProductandSell.genruntimeconfig.cache
